@@ -1,0 +1,17 @@
+{
+  "name": "@yashprojects/medium-common",
+  "version": "1.0.1",
+  "description": "this is types package of zod ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yash",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {}
+}

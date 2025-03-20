@@ -1,6 +1,6 @@
 {
   "name": "@yashprojects/medium-common",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "this is types package of zod ",
   "main": "dist/index.js",
   "scripts": {
